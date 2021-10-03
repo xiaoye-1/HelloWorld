@@ -9,9 +9,7 @@ Android界面布局实验
 
 ![](http://m.qpic.cn/psc?/V13Hk9Np1AfI6x/ruAMsa53pVQWN7FLK88i5goJG7oxi*NA9OADezKHsFWd0rpKyXDSvhXuUgSD9HdqP9CsEsL6wCMyrGBjzpaKywhwgV1eS.yOShpjy5ykLnE!/mnull&bo=1gJeAdYCXgEDCSw!&rf=photolist&t=5)
 
-=======
-	
->>>>>>> 3cce313e1e7a4ab7220d54f942c6a7e94283226b
+
 约束布局（constraintlayout）
         特点
    	配合布局编辑器,提升效率(鼠标创建布局)
@@ -23,9 +21,6 @@ Android界面布局实验
 
 ![](http://m.qpic.cn/psc?/V13Hk9Np1AfI6x/ruAMsa53pVQWN7FLK88i5vVsZ0HFWYML5ULmdKNnC9o1Tr6c6dhgysI5xeyQC7AL.DOnRZmqsyI09GZi4DEV*MD4qEuQcbfm3qn8Sxorrp0!/mnull&bo=FwHyARcB8gEDCSw!&rf=photolist&t=5)
 
-=======
-	
->>>>>>> 3cce313e1e7a4ab7220d54f942c6a7e94283226b
 表格布局（tablelayout）
 	TableLayout 将子元素的位置分配到行或列中。
 	一个TableLayout 由许多的TableRow 组成，
@@ -36,5 +31,4 @@ Android界面布局实验
 <<<<<<< HEAD
 
 ![](http://m.qpic.cn/psc?/V13Hk9Np1AfI6x/ruAMsa53pVQWN7FLK88i5h.ktHAZ4HWovp*Aj0aZKCe3b40zkO6o03fsSw99daZLeu6Wg91wDlDU*SBNMmOXeYoA3Hx.jrvnXz75GDfLqoI!/mnull&bo=ZwFPAgAAAAADBwk!&rf=photolist&t=5)
-=======
->>>>>>> 3cce313e1e7a4ab7220d54f942c6a7e94283226b
+
