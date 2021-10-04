@@ -7,8 +7,21 @@
     <TableRow>
 
         <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:text="Test"
+            android:textColor="#A9A9A9"
+            android:textSize="30sp"></TextView>
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
             android:layout_width="28dp"
             android:layout_height="wrap_content"></TextView>
+
+
 
         <TextView
             android:layout_width="wrap_content"

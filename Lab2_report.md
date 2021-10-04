@@ -16,7 +16,9 @@ Android界面布局实验
     	添加动画效果更加简单(一行代码添加动画)
     	支持代码布局控件(完全不使用XML来画布局)
 
+
 ![](http://m.qpic.cn/psc?/V13Hk9Np1AfI6x/ruAMsa53pVQWN7FLK88i5vVsZ0HFWYML5ULmdKNnC9o1Tr6c6dhgysI5xeyQC7AL.DOnRZmqsyI09GZi4DEV*MD4qEuQcbfm3qn8Sxorrp0!/mnull&bo=FwHyARcB8gEDCSw!&rf=photolist&t=5)
+
 
 表格布局（tablelayout）
 	TableLayout 将子元素的位置分配到行或列中。
@@ -26,4 +28,6 @@ Android界面布局实验
 	每个cell 拥有一个View 对象。表格由列和行组成许多的单元格。表格允许单元格为空。
 	单元格不能跨列，这与HTML 中的不一样。
 
+
 ![](http://m.qpic.cn/psc?/V13Hk9Np1AfI6x/ruAMsa53pVQWN7FLK88i5h.ktHAZ4HWovp*Aj0aZKCe3b40zkO6o03fsSw99daZLeu6Wg91wDlDU*SBNMmOXeYoA3Hx.jrvnXz75GDfLqoI!/mnull&bo=ZwFPAgAAAAADBwk!&rf=photolist&t=5)
+
